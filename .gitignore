@@ -1,6 +1,7 @@
 *.ko
 *.k
 *.mod.*
+*.mod
 modules.order
 Module.symvers
 *.o
